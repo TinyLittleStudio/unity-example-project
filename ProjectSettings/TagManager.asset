@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - Agent
+  - Agent Player
+  - Bullet
+  - Bullet Shell
+  - Collectable
+  - World
+  - World Aesthetics
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: 2D_DEFAULT_BACKGROUND
+    uniqueID: 3010153985
+    locked: 0
+  - name: 2D_DEFAULT
+    uniqueID: 813031897
+    locked: 0
+  - name: 2D_DEFAULT_FOREGROUND
+    uniqueID: 3483744075
+    locked: 0
+  - name: UI
+    uniqueID: 1660684815
+    locked: 0
